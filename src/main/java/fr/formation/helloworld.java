@@ -4,7 +4,9 @@ public class helloworld {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hello_Maven");
+		String message = "Hello maven world";
+		afficher A = new afficher() ;
+		A.display(message);
 
 }
 

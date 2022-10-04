@@ -1,0 +1,11 @@
+package fr.formation;
+
+public class helloworld {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Hello_Maven");
+
+}
+
+}
